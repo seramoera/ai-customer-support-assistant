@@ -1,0 +1,101 @@
+text,intent,label
+please reserve a table for 2 at luckys under the name melissa at 7 pm,restaurant_reservation,8
+i would like to reserve a table for 2 at sams steakhouse under the name jessie at 630 pm,restaurant_reservation,8
+help me reserve a table for 3 at luckys under the name crystal at 8 pm,restaurant_reservation,8
+would you please schedule a reservation for 2 at luckys under the name sam at 730pm,restaurant_reservation,8
+could you please reserve a table for 6 at lucilles under the name tom at 5pm,restaurant_reservation,8
+is there a reservation available at ruth chris today,restaurant_reservation,8
+are there 8pm tables available at texas roadhouse,restaurant_reservation,8
+book a reservation for 3 at xenophobe under the name zebee,restaurant_reservation,8
+i need to book a reservation for 3 at xenophobe under the name zebee,restaurant_reservation,8
+book 3 under the name zebee at xenophobe,restaurant_reservation,8
+what reservations are available for 3 people at the xenophobe,restaurant_reservation,8
+under the name zebee book a reservation at the xenophobe for 3,restaurant_reservation,8
+use the name wheeler to reserve a table for 3 at andreas steakhouse at 5pm,restaurant_reservation,8
+make a reservation for wheeler party of 3 for 5pm at andreas steakhouse,restaurant_reservation,8
+reserve a table for 3 at andreas steakhouse around 5pm under the name wheeler,restaurant_reservation,8
+i need a table for 3 at 5pm at andreas steakhouse under wheeler,restaurant_reservation,8
+reserve a table for 3 under the name wheeler at andreas steakhouse for 5pm,restaurant_reservation,8
+book room for me and her under the name kendra,restaurant_reservation,8
+allow me to turn on the lights,restaurant_reservation,8
+make me a reservation for 5 people at village tavern for the calloways,restaurant_reservation,8
+id like an appointment at your earliest availability for an oil change,schedule_maintenance,9
+could you book me an appointment for an oil change,schedule_maintenance,9
+id like to make an appointment to get my oil changed,schedule_maintenance,9
+id like to book the next availability for an oil change,schedule_maintenance,9
+can i make an appointment for an oil change,schedule_maintenance,9
+schedule an appointment for a tire check for me,schedule_maintenance,9
+make me an appointment for a tire check,schedule_maintenance,9
+can i make an appointment to get my tires checked,schedule_maintenance,9
+can you please make an appointment for me to get my tires checked out,schedule_maintenance,9
+schedule me an appointment to get my tires checked out,schedule_maintenance,9
+can you help me find someone to look at my cars engine because the light is on,schedule_maintenance,9
+i need to arrange an appointment to have my cars tires examined,schedule_maintenance,9
+my car needs maintenance but i dont know if i can schedule an appointment for that,schedule_maintenance,9
+is there any way to change the date of my oil change,schedule_maintenance,9
+my cars tires are due to be looked at can you help me get an appointment for that,schedule_maintenance,9
+find out where i can schedule to get my cars tires checked,schedule_maintenance,9
+i need to get an appointment for car maintenance,schedule_maintenance,9
+help me schedule maintenance for my car,schedule_maintenance,9
+help me find somewhere to schedule a check up on my cars tires,schedule_maintenance,9
+find me someone who can deal with my cars illuminated check engine light,schedule_maintenance,9
+my account looks to be blocked and i have no idea why,account_blocked,3
+it seems that my account is blocked and im not sure why,account_blocked,3
+my account appears to be blocked and i dont know why,account_blocked,3
+it looks like my account is blocked but i have no clue why,account_blocked,3
+my account appears to be blocked but i have no idea why that could be,account_blocked,3
+why did you freeze my bank account,account_blocked,3
+how did my bank account is frozen,account_blocked,3
+can anyone let me know the reason behind my frozen bank account,account_blocked,3
+what are the possible reasons behind frozen bank account,account_blocked,3
+need help with frozen bank account,account_blocked,3
+great western banks login screen tells me im locked out but not why,account_blocked,3
+i get an error message when i try logging in to capital one that says im locked out,account_blocked,3
+can you check and see if my accounts blocked,account_blocked,3
+why cant i log into my bank account,account_blocked,3
+tell me why i get an error logging in to my bank account,account_blocked,3
+id like to know if my accounts blocked and the reason if so,account_blocked,3
+can you confirm my accounts blocked and tell me why,account_blocked,3
+do you have any idea why my account may be blocked,account_blocked,3
+find out why i cant log in to my bank of america account,account_blocked,3
+please tell me the reason for the hold on my bbt account,account_blocked,3
+contact the bank about fraud activity on my card,report_fraud,2
+i need to talk to someone about a fraudulent activity on my card,report_fraud,2
+i need to report unauthorized activity on my card,report_fraud,2
+looks like my card is being used by someone else report it,report_fraud,2
+theres something fishy on my card report it,report_fraud,2
+how do i report fraud on my chase bank card,report_fraud,2
+someone is charging my card for playstations and its not me what do i do,report_fraud,2
+help im a victim of credit card fraud,report_fraud,2
+i want to report fraud on my american express,report_fraud,2
+where do i report fraud on my credit card,report_fraud,2
+i want to report fraudulent activity on my mastercard,report_fraud,2
+i want to report fraudulent activity on my quicksilver card,report_fraud,2
+i want to report fraudulent activity on my capital one,report_fraud,2
+i want to report fraudulent activity on my discover card,report_fraud,2
+i want to report fraudulent activity on my visa,report_fraud,2
+i think there has been a fraud on my black visa card can i report it,report_fraud,2
+can you assist me on my fradulent activity on my chase card,report_fraud,2
+an unauthorized transactions has been made on my gap card and i need to report it,report_fraud,2
+is there anyway i can report a suspicious activity on my citi card,report_fraud,2
+i would like to report a fraud on my wells fargo card please,report_fraud,2
+if i plan on travelling to this country do i need a visa,international_visa,7
+do i need a visa if i go there,international_visa,7
+for going to that country do i need a visa,international_visa,7
+does one need a visa to go there,international_visa,7
+if i travel there do i need a visa,international_visa,7
+does going to taiwan require me to get an international visa,international_visa,7
+if i go to brazil do i need to get an international visa,international_visa,7
+should i go to okinawa does it require an international visa,international_visa,7
+is an international visa needed to go to cyprus,international_visa,7
+i want to go to china but am not sure if i need an international visa,international_visa,7
+should i get an internation visa to go to switzerland,international_visa,7
+does south korea require an international visa,international_visa,7
+will i need an international visa to go to madagascar,international_visa,7
+is an international visa needed for canada,international_visa,7
+do i need an international visa to get into italy,international_visa,7
+if i go to uganda do i need an international visa,international_visa,7
+do i need a travel visa for the uk,international_visa,7
+am i going to need a visa for traveling to canada,international_visa,7
+does canada require a visa,international_visa,7
+does the uk require a travel visa,international_visa,7

@@ -1,0 +1,67 @@
+# Text-CNN Model Configuration
+model:
+  name: "Text-CNN"
+  architecture: "Convolutional Neural Network with multiple filter sizes"
+  embedding_dim: 300  # Word embedding dimension
+  num_filters: 100    # Number of filters per size
+  filter_sizes: [2, 3, 4]  # N-gram sizes (bigrams, trigrams, 4-grams)
+  dropout: 0.5        # Dropout rate after convolution
+  num_classes: 10     # Intent classification (10 CLINC150 subset intents)
+
+training:
+  batch_size: 32
+  learning_rate: 0.001
+  epochs: 30
+  early_stopping_patience: 5
+  weight_decay: 1e-5  # L2 regularization
+  
+  # Optimizer
+  optimizer: "Adam"
+  
+  # Data splits
+  train_ratio: 0.70
+  val_ratio: 0.15
+  test_ratio: 0.15
+
+data:
+  preprocessing:
+    lowercase: true
+    remove_punctuation: true
+    tokenize: true
+  
+  # Max sequence length (shorter sequences padded, longer truncated)
+  max_seq_length: 50
+  
+  # Vocabulary size (top N frequent words)
+  vocab_size: 5000
+
+evaluation:
+  metrics:
+    - accuracy
+    - f1_macro
+    - f1_weighted
+    - precision
+    - recall
+    - confusion_matrix
+  
+  # Per-class metrics
+  per_class: true
+
+results:
+  save_model: true
+  model_path: "weights/text_cnn_best.pt"
+  checkpoint_interval: 5  # Save checkpoint every 5 epochs
+  
+  # Save training artifacts
+  save_vectorizer: true
+  vectorizer_path: "weights/vectorizer.pkl"
+  save_history: true
+  history_path: "experiments/results/training_history.json"
+  save_metrics: true
+  metrics_path: "experiments/results/evaluation_metrics.json"
+
+# Expected Performance
+expected:
+  accuracy: 0.88
+  f1_macro: 0.86
+  training_time_minutes: 5

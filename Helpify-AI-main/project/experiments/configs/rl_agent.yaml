@@ -1,0 +1,61 @@
+# Q-Learning RL Agent Configuration
+agent:
+  name: "Q-Learning Agent"
+  algorithm: "Tabular Q-Learning with epsilon-greedy exploration"
+  
+  # State and action spaces
+  num_states: 10  # 10 CLINC150 subset intents
+  num_actions: 6  # 6 response actions
+  
+  actions:
+    - ask_order_id
+    - provide_solution
+    - escalate_human
+    - give_faq
+    - ask_clarification
+    - apologize_and_help
+
+# Learning parameters (standard Q-Learning Bellman update)
+learning:
+  learning_rate: 0.1  # α: step size for Q-value updates
+  discount_factor: 0.9  # γ: importance of future rewards
+  
+  # Exploration-exploitation trade-off
+  exploration_rate: 0.3  # ε: initial exploration probability
+  exploration_decay: 0.995  # Multiply ε by this each episode
+  min_exploration_rate: 0.01  # Don't decay below this
+
+# Reward structure
+rewards:
+  positive_reward: 2.0  # User satisfaction (positive outcome)
+  neutral_reward: 0.0   # Neutral interaction
+  negative_reward: -2.0 # Poor outcome (incorrect action)
+  
+  # Distribution of random rewards during training
+  positive_probability: 0.70  # 70% chance of positive
+  neutral_probability: 0.20   # 20% chance of neutral
+  negative_probability: 0.10  # 10% chance of negative
+
+training:
+  num_episodes: 1000
+  episode_length: 10
+  eval_interval: 100  # Evaluate every 100 episodes
+  
+  # Convergence criteria
+  convergence_threshold: 0.001  # min change in avg Q-values
+  convergence_patience: 20  # stop if no improvement for 20 evals
+
+results:
+  save_agent: true
+  agent_path: "weights/q_learning_agent.json"
+  save_history: true
+  history_path: "experiments/results/rl_training_history.json"
+  save_statistics: true
+  stats_path: "experiments/results/rl_statistics.json"
+
+# Expected Performance
+expected:
+  converged: true
+  success_rate: 0.75  # Positive outcomes
+  avg_episode_reward: 1.2
+  convergence_episodes: 500

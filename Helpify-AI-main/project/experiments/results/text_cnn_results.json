@@ -1,0 +1,25 @@
+{
+  "model": "text_cnn",
+  "test_loss": 0.043243667529895904,
+  "test_accuracy": 0.98,
+  "macro_f1": 0.9799833163395716,
+  "num_classes": 8,
+  "config": {
+    "embedding_dim": 300,
+    "num_filters": 100,
+    "filter_sizes": [
+      2,
+      3,
+      4
+    ],
+    "dropout_rate": 0.5,
+    "num_classes": 10,
+    "batch_size": 32,
+    "learning_rate": 0.001,
+    "epochs": 30,
+    "early_stopping_patience": 5,
+    "weight_decay": "1e-5",
+    "max_seq_length": 50,
+    "vocab_size": 5000
+  }
+}

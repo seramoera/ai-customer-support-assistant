@@ -1,0 +1,501 @@
+text,intent,label
+you need to call the melt in lakewood for a table for at 200 monday the first week in march,restaurant_reservation,8
+hey computer make a reservation for 2 for my parents at red lobster on wednseday next 200pm if possible,restaurant_reservation,8
+i think we should reserve dads regular table friday for 6 people use his name make that close to 400 pm at the club,restaurant_reservation,8
+listen i need to get a reservation for me and teresa at georgetown cafe on tuesday at 700 pm,restaurant_reservation,8
+can you make me a reservation for 4 pm on the 22nd at ruths,restaurant_reservation,8
+i need a reservation at 8 on the 22nd of november at ruths,restaurant_reservation,8
+can i make a reservation for 6 pm on the 21st at sidetracks,restaurant_reservation,8
+please reserve me a table at hells kitchen on may 3rd at 8 pm,restaurant_reservation,8
+please reserve me a table for 2 pm at maxwells on the 14th,restaurant_reservation,8
+can you make a reservation for me at the restaurant,restaurant_reservation,8
+can you make a reservation at the restaurant for tomorrow,restaurant_reservation,8
+can you book a table at the restaurant for me and my husband,restaurant_reservation,8
+can you make a reservation at the restaurant for tonight,restaurant_reservation,8
+can you get me a table for 6 at marks at 11am,restaurant_reservation,8
+can you get me a table for 1 at the vega at 1pm,restaurant_reservation,8
+can you get a table for 5 at joes at 5pm,restaurant_reservation,8
+can you get me a table for 3 at captain ds at 2pm,restaurant_reservation,8
+can you get me a table for 2 at mexico viejo at 3pm,restaurant_reservation,8
+can you get me a table for 2 at diablo,restaurant_reservation,8
+can you get me a table for 5 at johnnys,restaurant_reservation,8
+can you get me a table for 8 at johnnys,restaurant_reservation,8
+can you get me a table for 6 at johnnys,restaurant_reservation,8
+can you get me a table for 4 at steves,restaurant_reservation,8
+reserve a table for 3 at outback steakhouse under the name lance at 700pm,restaurant_reservation,8
+reserve a table for 4 at red lobster under the name dave at 730pm,restaurant_reservation,8
+reserve a table for 6 at mortons under the name jaime at 830pm,restaurant_reservation,8
+can you get me a table for 3 at olive garden at 7pm,restaurant_reservation,8
+book a reservation for 6 at shakeys under the name jason,restaurant_reservation,8
+reserve a table for 5 at lawrys under the name steve at 800pm,restaurant_reservation,8
+book a reservation for 5 at lawrys under the name chris,restaurant_reservation,8
+reserve a table for 2 at olive garden under the name jim at 600pm,restaurant_reservation,8
+book a reservation for 4 at outback steakhouse under the name dave,restaurant_reservation,8
+can you get me a table for 5 at outback steakhouse at 630pm,restaurant_reservation,8
+book a reservation for 3 at red lobster under the name steve,restaurant_reservation,8
+book a reservation for 2 at olive garden under the name jim,restaurant_reservation,8
+can you get me a table for 8 at mastros at 830pm,restaurant_reservation,8
+can you get me a table for 4 at red lobster at 8pm,restaurant_reservation,8
+can you get me a table for 6 at lawrys at 730pm,restaurant_reservation,8
+is it possible to get a table for 4 at the village inn around 10am,restaurant_reservation,8
+can you get me a table for 5 at mcdonalds at 5pm,restaurant_reservation,8
+give me a table for 3 at oreillys bar for 7 please,restaurant_reservation,8
+can i have a table held at the outback steakhouse for johnson at 5,restaurant_reservation,8
+is it possible to book a room at the taco bell for reavers at 3,restaurant_reservation,8
+id like to set up a reservation for kibble at 4,restaurant_reservation,8
+can i reserve a table for 2 at the olive garden at 8,restaurant_reservation,8
+i want to reserve a table at 8 at long john silvers under the name freddie,restaurant_reservation,8
+i want to have a table for 2 at the broadmore around 6,restaurant_reservation,8
+i need an 8 oclock reservation at pizza hut for the last name mercury,restaurant_reservation,8
+hey i need to make a reservation for three at umi six pm on february 30th,restaurant_reservation,8
+hello id like a reservation for two at the olive garden at six tonight,restaurant_reservation,8
+can you set me up for a reservation for five at outback steakhouse on february 28th at seven pm,restaurant_reservation,8
+i need a reservation for one at applebees four in the afternoon on march 3rd,restaurant_reservation,8
+please make a reservation for me party of two february 22nd at chilis two in the afternoon,restaurant_reservation,8
+i gotta make a reservation for 8 pm at red robin for 3,restaurant_reservation,8
+can i make a reservation for 8 pm at red robin for 3,restaurant_reservation,8
+please book a reservation for 8 pm at red robin under the name kevin,restaurant_reservation,8
+i want you to book a reservation for 8 pm at red robin under the name kevin,restaurant_reservation,8
+you have to reserve a table for 4 at red robin under the name kevin at 7,restaurant_reservation,8
+please reserve a table for 4 at red robin under the name kevin at 7,restaurant_reservation,8
+i need you to reserve a table for 4 at red robin under the name kevin at 7,restaurant_reservation,8
+reserve a table for 4 at red robin under the name kevin at 7,restaurant_reservation,8
+i want to make a reservation for 8 pm at red robin for 3,restaurant_reservation,8
+you must reserve a table for 4 at red robin under the name kevin at 7,restaurant_reservation,8
+i think i need to make a reservation for 8 pm at red robin for 3,restaurant_reservation,8
+i need you to book a reservation for 8 pm at red robin under the name kevin,restaurant_reservation,8
+go ahead and book a reservation for 8 pm at red robin under the name kevin,restaurant_reservation,8
+i need to make a reservation for 8 pm at red robin for 3,restaurant_reservation,8
+book a reservation for 8 pm at red robin under the name kevin,restaurant_reservation,8
+would you please make a reservation for 2 at olive garden for 5 pm today,restaurant_reservation,8
+id like a reservation for 2 at olive garden for 5 pm today,restaurant_reservation,8
+could you make reservations for 2 at olive garden for 5 pm today,restaurant_reservation,8
+make a reservation at 5 pm today for 2 at olive garden,restaurant_reservation,8
+please make a reservation for 2 at olive garden for 5 pm today,restaurant_reservation,8
+i need you to reserve a table for 600 pm for three at devons seafood,restaurant_reservation,8
+make a reservation for three at prime rib at 630 pm,restaurant_reservation,8
+i would like a reservation for 630 pm at pietros under the name david jones,restaurant_reservation,8
+please reserve a table for two at rouge for 700 pm,restaurant_reservation,8
+can you get me a table for two for 800 pm at parc,restaurant_reservation,8
+i would like you to secure a 430 pm reservation for five people at mortons steakhouse,restaurant_reservation,8
+call and make a 545 pm reservation for jason rogers table for four,restaurant_reservation,8
+i need you to reserve at table for a party of four at devons for 600 pm,restaurant_reservation,8
+reserve a table for two for 730 pm at dibrunos under patrick donoghue,restaurant_reservation,8
+please make a reservation at ruths steaks for a party of five at 700 pm under jack arnold,restaurant_reservation,8
+can i make a reservation for 2 at state bird for 730 please,restaurant_reservation,8
+can i make a reservation for 2 at state bird for 830 please,restaurant_reservation,8
+can i make a reservation for 2 at state bird for 630 please,restaurant_reservation,8
+can i make a reservation for 3 at state bird for 830 please,restaurant_reservation,8
+can i make a reservation for 2 at state bird for 830,restaurant_reservation,8
+please make a reservation for us at joy bar for 4 adults,restaurant_reservation,8
+please make me a reservation for montys at noon for 55555,restaurant_reservation,8
+now i need a reservation for backwoods crossing at seven for 6 people,restaurant_reservation,8
+make me a reservation for tomorrow at happys for four,restaurant_reservation,8
+make me a reservation for 5 at coral for 10 pm immediately,restaurant_reservation,8
+can you reserve a table for 2 at red lobster at 8pm,restaurant_reservation,8
+schedule me a table for 2 at red lobster at 8,restaurant_reservation,8
+check reservation availability for 2 at red lobster at 8pm,restaurant_reservation,8
+make a reservation for 2 at red lobster at 8pm,restaurant_reservation,8
+reserve a table for 2 at red lobster at 800,restaurant_reservation,8
+reserve a table for four for tonight at 7 at the fatted calf,restaurant_reservation,8
+make a reservation for tuesday at 700 pm at cielo for 2,restaurant_reservation,8
+my car needs to be brought for maintenance,schedule_maintenance,9
+could you schedule car maintenance for me,schedule_maintenance,9
+i need someone to look at my car because my check engine light is on,schedule_maintenance,9
+locate someone to look at my car because my check engine light is on,schedule_maintenance,9
+i require a car maintenance,schedule_maintenance,9
+who is available to check why my check engine light is on,schedule_maintenance,9
+could you find someone to check out my car because the check engine light is on,schedule_maintenance,9
+i need to schedule car maintenance,schedule_maintenance,9
+please schedule car maintenance for me,schedule_maintenance,9
+who can i contact about why check engine light is on,schedule_maintenance,9
+i want to schedule a tire check up somewhere,schedule_maintenance,9
+i need to get my tires checked out somewhere,schedule_maintenance,9
+i need to find somewhere to check my tires out,schedule_maintenance,9
+i need to get my tired checked at one of the location,schedule_maintenance,9
+can i schedule a check up for my tires somewhere,schedule_maintenance,9
+where in sacramento ca i schedule maintenance on my car,schedule_maintenance,9
+i want to to schedule maintenance on my vehicle,schedule_maintenance,9
+look for auto companies that do scheduled maintenance on my vehicle,schedule_maintenance,9
+i need some work done on my car so need to schedule auto mechanic for maintenance,schedule_maintenance,9
+find local deals who schedule maintenance on cars,schedule_maintenance,9
+where can i find a place where i can schedule to check my tires out,schedule_maintenance,9
+is there a special place where i can schedule to check my tires out,schedule_maintenance,9
+where can i schedule to get my tires checked out,schedule_maintenance,9
+where is an appropriate place where i can schedule to check out my tires,schedule_maintenance,9
+is there a location i can schedule to check out my tires,schedule_maintenance,9
+can you make an appointment for an oil change,schedule_maintenance,9
+please make an appointment for an oil change,schedule_maintenance,9
+i need you to find a mechanic for my check engine light,schedule_maintenance,9
+please schedule an appointment for my oil to get changed,schedule_maintenance,9
+my car needs maintenance scheduled,schedule_maintenance,9
+how i do schedule car maintenance,schedule_maintenance,9
+my check engine light is on and someone needs to look at it,schedule_maintenance,9
+i need to get my oil change so make an appointment,schedule_maintenance,9
+the check engine light is on and i need a mechanic,schedule_maintenance,9
+my car needs maintenance prepared,schedule_maintenance,9
+my car needs an appointment for an oil change,schedule_maintenance,9
+i need someone to look at my check engine light,schedule_maintenance,9
+help me find someone to look at my check engine light,schedule_maintenance,9
+put a tire inspection on my schedule please,schedule_maintenance,9
+i need to find someone to look at my check engine light,schedule_maintenance,9
+is it possible to get schedule getting my tires inspected,schedule_maintenance,9
+id like to schedule a tire inspection,schedule_maintenance,9
+who in the area can inspect my engine light,schedule_maintenance,9
+set an appointment for an oil change,schedule_maintenance,9
+book an oil change please,schedule_maintenance,9
+can you please obtain an oil change appointment for me,schedule_maintenance,9
+where can i get my tires checked and how can i schedule it,schedule_maintenance,9
+is there someone in the area who can check my engine light since it is on,schedule_maintenance,9
+i need the soonest appointment for an oil change,schedule_maintenance,9
+i am in need of an oil change set an appointment,schedule_maintenance,9
+please find someone who specializes in cars my check engine light has turned on,schedule_maintenance,9
+my check engine light has switched on schedule someone to inspect it,schedule_maintenance,9
+i need to schedule a car repair,schedule_maintenance,9
+can i schedule a car repair,schedule_maintenance,9
+how do i schedule car maintenance,schedule_maintenance,9
+i want to schedule car maintenance,schedule_maintenance,9
+i wanna have an appointment to get my oil changed,schedule_maintenance,9
+i wanna schedule some car maintenance,schedule_maintenance,9
+can someone look at my car cause the check engine light is on,schedule_maintenance,9
+i need to schedule some car maintenance,schedule_maintenance,9
+i got to schedule somewhere get my tires checked out,schedule_maintenance,9
+i must schedule somewhere get my tires checked out,schedule_maintenance,9
+id like to get an appointment to get my oil changed,schedule_maintenance,9
+i want to schedule somewhere get my tires checked out,schedule_maintenance,9
+i gotta schedule some car maintenance,schedule_maintenance,9
+y check engine light currently came on and i need assistance with it,schedule_maintenance,9
+i need help cause my check engine light came on,schedule_maintenance,9
+i have to schedule somewhere get my tires checked out,schedule_maintenance,9
+i need to have an appointment to get my oil changed,schedule_maintenance,9
+i need an appointment to get my oil changed,schedule_maintenance,9
+i got to schedule some car maintenance,schedule_maintenance,9
+my engine light came on so i need to get help,schedule_maintenance,9
+i want to get an appointment to get my oil changed,schedule_maintenance,9
+my check engine light is on and i need to take a look at it,schedule_maintenance,9
+i have to schedule some car maintenance,schedule_maintenance,9
+i need to schedule somewhere get my tires checked out,schedule_maintenance,9
+i would like an appointment to get my oil changed,schedule_maintenance,9
+can i please get an appointment to get my oil changed,schedule_maintenance,9
+i need an oil change make an appointment,schedule_maintenance,9
+find a mechanic to look at my check engine light,schedule_maintenance,9
+book an appointment for an oil change,schedule_maintenance,9
+i should get my tires checked schedule that,schedule_maintenance,9
+how do i schedule getting my tires checked,schedule_maintenance,9
+i need someone to look at my car and tell me why the light is on,schedule_maintenance,9
+schedule an oil change for me,schedule_maintenance,9
+which mechanic can check my check engine light,schedule_maintenance,9
+make a reminder to schedule a tire check,schedule_maintenance,9
+who can look at my car the engine light is on,schedule_maintenance,9
+set a time to get my oil changed,schedule_maintenance,9
+make an appointment to check my tires,schedule_maintenance,9
+i dont know why my check engine light is on i need a mechanic,schedule_maintenance,9
+make an appointment for an oil change,schedule_maintenance,9
+make arrangements for me to get my oil changed,schedule_maintenance,9
+can you schedule me a mechanic,schedule_maintenance,9
+schedule an appointment to get my oil changed,schedule_maintenance,9
+i need to get my oil changed,schedule_maintenance,9
+schedule a time to get my oil changed,schedule_maintenance,9
+find me a mechanic,schedule_maintenance,9
+schedule a mechanic,schedule_maintenance,9
+schedule car repairs,schedule_maintenance,9
+why is there a hold on my american saving bank account,account_blocked,3
+i am nost sure why my account is blocked,account_blocked,3
+why is there a hold on my capital one checking account,account_blocked,3
+i think my account is blocked but i do not know the reason,account_blocked,3
+can you tell me why is my bank account frozen,account_blocked,3
+why is there a hold on my edward jones account,account_blocked,3
+why am i locked out of my bank account,account_blocked,3
+why in the world am i locked out of my bank account,account_blocked,3
+what is the reason for frozen status on my bank account,account_blocked,3
+check for why is my bank account frozen,account_blocked,3
+i dont know the reason my account is blocked,account_blocked,3
+find out for me why is my bank account frozen,account_blocked,3
+can you find out why is my bank account frozen,account_blocked,3
+why is there a hold on my discover account,account_blocked,3
+tell me why am i locked out of my bank account,account_blocked,3
+what is the reason i am locked out of my bank account,account_blocked,3
+why is my account blocked,account_blocked,3
+find out the reason why am i locked out of my bank account,account_blocked,3
+i think my account is block but i am not sure why,account_blocked,3
+why is there a hold on my charles swab account,account_blocked,3
+my chase account has a hold why,account_blocked,3
+whats the reason for a hold on my wells fargo account,account_blocked,3
+can you find the reason for the block on my account,account_blocked,3
+theres a hold on my chase account but why,account_blocked,3
+tell me the reason there is a hold or block on my account,account_blocked,3
+why does my credit union account have a hold on it,account_blocked,3
+figure out why there is a block on my account please,account_blocked,3
+why am i seeing a hold on my boa account,account_blocked,3
+my account has been blocked but i have no idea why,account_blocked,3
+why is there a block on my account,account_blocked,3
+can you please unlock my bank account,account_blocked,3
+please let me into my bank account,account_blocked,3
+why cannot i take any money out from my bank account,account_blocked,3
+what was the reason my bank account was frozen,account_blocked,3
+who froze my bank account,account_blocked,3
+who can i talk to right away about the current freeze on my account,account_blocked,3
+my checking account has a hold on it and i need to know why,account_blocked,3
+why is my bank account stopping all transactions from going through,account_blocked,3
+i need to know why my bank account is blocking all of activity,account_blocked,3
+can you find out what triggered a hold on my bank account,account_blocked,3
+can i talk to someone about why there is a hold on my checking account,account_blocked,3
+what caused a freeze to be put on my bank account,account_blocked,3
+my account has a hold on it and i cant access my funds why,account_blocked,3
+is there a reason that my bank account has a freeze on it,account_blocked,3
+what would cause my bank account to be frozen,account_blocked,3
+do you know why i cant log into my bank account,account_blocked,3
+why cant i get into my account,account_blocked,3
+did i do something to get my bank account frozen,account_blocked,3
+was my bank account frozen for a specific reason,account_blocked,3
+why are the funds in my bank account frozen,account_blocked,3
+what would cause me to be locked out of my bank account,account_blocked,3
+why am i unable to access my bank account,account_blocked,3
+why is my bank account frozen,account_blocked,3
+why would i have been locked out of my own account,account_blocked,3
+can you explain to me why my bank account might be frozen,account_blocked,3
+i am very confused about why or how my bank would lock me out of my account,account_blocked,3
+why would the bank have frozen my account,account_blocked,3
+do you know why the bank put a hold on my joint checking account,account_blocked,3
+i dont understand why there is a hold on my retirement fund account,account_blocked,3
+can you explain why there is a hold on my savings account,account_blocked,3
+whats the deal with my bank account being locked,account_blocked,3
+what reason could the bank have had for blocking my account,account_blocked,3
+why would a hold have been placed on my checking account,account_blocked,3
+why on earth would a block have been placed on my account,account_blocked,3
+im confused about the reason for my bank account being frozen,account_blocked,3
+i dont understand why i have been barred from accessing my own account,account_blocked,3
+i dont understand why my bank account is frozen right now,account_blocked,3
+how come i am being denied access to my bank account,account_blocked,3
+do you know why my account appears to be blocked,account_blocked,3
+i am confused because my account seems to have been blocked for no reason,account_blocked,3
+i am very confused about the block that seems to have been placed on my account why is it there,account_blocked,3
+how is it possible that my account has been frozen,account_blocked,3
+how come a hold was placed on my 401k account,account_blocked,3
+could you please tell me my wells fargo account is there a hold and why,account_blocked,3
+i am unable to complete my order why could there be a hold on my wells fargo account,account_blocked,3
+was a hold placed on my wells fargo account and if so why,account_blocked,3
+in regards to my wells fargo account why is there a hold,account_blocked,3
+why was a hold placed on my wells fargo account,account_blocked,3
+call my bank customer service number,account_blocked,3
+why is my account locked,account_blocked,3
+whats with the block on my bank account,account_blocked,3
+why did my bank account freeze,account_blocked,3
+whyd they put a freeze on my bank account,account_blocked,3
+why is my bank account blocking me,account_blocked,3
+why cant i access my bank account,account_blocked,3
+i think my account is blocked,account_blocked,3
+for what reason is my account blocked,account_blocked,3
+can you tell me why theres a hold on my mutualone account,account_blocked,3
+why dont i have access to my bank account,account_blocked,3
+why isnt it letting me into my bank account,account_blocked,3
+my capital one account has a hold why,account_blocked,3
+why does my visa account have a hold on it,account_blocked,3
+why am i seeing a hold on my charles schwab account,account_blocked,3
+tell me about the hold on my chase account,account_blocked,3
+can you tell me why my bank account is frozen,account_blocked,3
+do you know why my account is blocked,account_blocked,3
+help my account is blocked,account_blocked,3
+help me please my account is blocked,account_blocked,3
+help me unblock my account,account_blocked,3
+my account is blocked help me figure out why,account_blocked,3
+im afraid this charge on my account is fraud,report_fraud,2
+i think theres fraud on my account,report_fraud,2
+i think i have fraud on my account from walmart,report_fraud,2
+theres been some fraudulent activity on my card,report_fraud,2
+im pretty sure this charge from sams club is fraudulent,report_fraud,2
+im pretty sure this charge is fraudulent,report_fraud,2
+i need to report some fraudulent card activity,report_fraud,2
+there are some questionable charges on my card,report_fraud,2
+i think theres a fraudulent transaction on my account,report_fraud,2
+theres a shady charge from comcast on my account,report_fraud,2
+my account has a fraudulent transaction i think,report_fraud,2
+can you help me with some fraudulent charges on my card,report_fraud,2
+i think ive been the victim of fraud,report_fraud,2
+id like to report a fraudulent charge from peoples natural gas,report_fraud,2
+this costco charge looks fraudulent,report_fraud,2
+theres fraudulent transaction going on,report_fraud,2
+i may have a fraudulent transaction,report_fraud,2
+i suspect some suspicious activity,report_fraud,2
+there seems to be fraudulent activity,report_fraud,2
+i suspect fraudulent transaction,report_fraud,2
+i need to report fraudulent activity on my card,report_fraud,2
+im reporting fraudelent activity on my card,report_fraud,2
+there has been fraudulent activity on my card and i need to report it,report_fraud,2
+i need to make a report due to fraudulent activity on my card,report_fraud,2
+due to fraudulent activity on my card i need to make a report,report_fraud,2
+how do i report a fraudulent charge on my visa,report_fraud,2
+how do i report fraud on my discover card,report_fraud,2
+how do i let visa know about a charge i didnt make,report_fraud,2
+help me tell visa about fraud on my account,report_fraud,2
+how do i tell mastercard about a fraudulent charge,report_fraud,2
+i have activity on my bank of america card i dont recognize,report_fraud,2
+i think a thief used my card,report_fraud,2
+i have suspicious charges on my discovery card,report_fraud,2
+i believe theres fraud on my card,report_fraud,2
+i need to report fraudulent activity on my mastercard,report_fraud,2
+i think someones using my visa card without my permission,report_fraud,2
+i have transactions on my card that arent mine,report_fraud,2
+my card has purchases i dont recognize,report_fraud,2
+someone misused my card and put fraudulent transactions on it,report_fraud,2
+i have charges on my amex card i didnt make,report_fraud,2
+disable my card account and contact company to report fraudulent activty,report_fraud,2
+i need to report fraudulent activity to my card company,report_fraud,2
+please contact my credit card company to report fraudulent activity on,report_fraud,2
+it looks like someone made an unauthorized amazon purchase on my account,report_fraud,2
+i think my chase account has been compromised and fraud committed,report_fraud,2
+i may have had fraud committed on my account,report_fraud,2
+im thinking someone may have used my card in a fraudulent way,report_fraud,2
+there is a fraudulent charge for paypal on my bank account,report_fraud,2
+i think the charge for uber on my account is fraudulent,report_fraud,2
+looks like someone made an unauthorized charge to nike on my account,report_fraud,2
+i think someone stole my card and used it,report_fraud,2
+i think someone made an illegal charge to my card,report_fraud,2
+my account is showing a charge to venmo that i did not make,report_fraud,2
+i gotta report fraudulent activity on my credit card,report_fraud,2
+so i made a fraudulent transaction,report_fraud,2
+i have a fraudulent transaction from wal mart on my account right now,report_fraud,2
+turns out i made a fraudulent transaction,report_fraud,2
+report fraudulent activity on my debit card,report_fraud,2
+i made a fraudulent transaction,report_fraud,2
+i have a fraudulent transaction from wal mart showing on my account,report_fraud,2
+i think i made a fraudulent transaction,report_fraud,2
+i have a fraudulent transaction from wal mart on my account,report_fraud,2
+i must report fraudulent activity on my debit,report_fraud,2
+i have a fraudulent transaction from red robin on my account,report_fraud,2
+report fraudulent activity on my credit card now,report_fraud,2
+i have a fraudulent transaction from frys on my account,report_fraud,2
+i got to report fraudulent activity on my credit card,report_fraud,2
+im afraid there is a false transaction on my account,report_fraud,2
+i have detected fraudulent activity on my account,report_fraud,2
+i see a fraudulent transaction from netflix on my account,report_fraud,2
+i spotted a fraudulent transaction from microsoft on my account,report_fraud,2
+i see a suspicious transaction in my account history,report_fraud,2
+it seems someone conducted a fraudulent transaction on my account,report_fraud,2
+i need help investigating a suspicious transaction,report_fraud,2
+i need to report a fraudulent transaction from postmates on my account,report_fraud,2
+help me figure out where this fraudulent transaction from google came from on my account,report_fraud,2
+can you help me deal with this fraudulent transaction from verizon on my account,report_fraud,2
+i believe there are fraudulent charges on my card how can i report them,report_fraud,2
+i didnt make these purchases on my card these are fraudulent charges i need to report them,report_fraud,2
+how can i report fraudulent charges on my card,report_fraud,2
+it seems that theres fraudulent activity on my card id like to file a report,report_fraud,2
+i want to report fraudulent activity on my card,report_fraud,2
+send information about suspicious credit card activity,report_fraud,2
+please report information about activity on my credit card,report_fraud,2
+send fraudulent activity information,report_fraud,2
+please file a fraud report,report_fraud,2
+report fraud on my card,report_fraud,2
+i want to report fraudulent activity on my visa card please,report_fraud,2
+i need to report fraudulent activity on my visa card please,report_fraud,2
+i want to report fraudulent activity on my amex card,report_fraud,2
+i want to report fraudulent activity on my visa card,report_fraud,2
+i want to report fraudulent activity on my amex card please,report_fraud,2
+i believe that there is some fraudulent activity on my capital one account,report_fraud,2
+there is an unauthorized transaction on my bank of america checking,report_fraud,2
+i see a purchase on my chase checking that i did not make,report_fraud,2
+what steps do i take if there is a transaction that i do not recognize on my navy federal credit union account,report_fraud,2
+i need to talk to someone about a transaction that was not made by me on my chase account,report_fraud,2
+can you report credit card fraud for me,report_fraud,2
+discover card reporting fraud,report_fraud,2
+i need to know how to report fraud on my discover card,report_fraud,2
+to visit cambodia do i need an international visa,international_visa,7
+do i need to get a visa to visit canada,international_visa,7
+will i need a visa to visit ireland,international_visa,7
+will i need a travel visa to go to canary islands,international_visa,7
+i want to visit portugal do i need a travel visa,international_visa,7
+i want to see paris will i need an international visa,international_visa,7
+for travel to argentina do i need to get a travel visa,international_visa,7
+will i have to apply for a visa if i want to visit mexico,international_visa,7
+to vacation to tel aviv do i need a travel visa,international_visa,7
+do i need to obtain a travel visa to go on vacation to places in eastern europe,international_visa,7
+would i need a tourist visa for brazil,international_visa,7
+do i need a tourist visa for europe,international_visa,7
+i want to know if i shouldget a tourist visa for italy,international_visa,7
+is it necessary to apply for a tourist visa for mexico,international_visa,7
+should i get a travel visa for spain,international_visa,7
+does moscow require travel visas to visit,international_visa,7
+would i need a travel visa to go to the congo,international_visa,7
+do i need an international visa to go to south korea,international_visa,7
+do i need an international visa to go to tibet,international_visa,7
+do i need an international visa to go to vietnam,international_visa,7
+do i need an international visa to go to hong kong,international_visa,7
+do i need an international visa to go to malaysia,international_visa,7
+i am going to travel to mexico soon do i need to get a visa,international_visa,7
+i need to know if i must have an international visa to go to france,international_visa,7
+im going to jamaica next week am i needing a visa,international_visa,7
+tell me whether i need an international visa to go to mexico,international_visa,7
+im going to mexico do i need an international via,international_visa,7
+let me know if i need an international visa to go to sudan,international_visa,7
+am i in need of an international visa to go to france,international_visa,7
+do i need to get a visa for traveling to chile,international_visa,7
+do i need a visa to travel to jamaica,international_visa,7
+i need to know if i need a visa to travel to el salvador,international_visa,7
+would i need a visa if i want to travel to mexico,international_visa,7
+do i need a visa to travel to mexico,international_visa,7
+does mexico require me to have a visa to travel there,international_visa,7
+is a visa needed to go to mexico,international_visa,7
+if i want to travel to mexico do i need to get a visa,international_visa,7
+do i need a visa to scotland,international_visa,7
+do i need a visa to russia,international_visa,7
+do i need a visa for canada,international_visa,7
+do i need a travel visa to visit germany,international_visa,7
+i am going to russia and am wondering if i need a visa,international_visa,7
+do i need a travel visa to visit russia,international_visa,7
+do i need a travel visa to visit canada,international_visa,7
+i am going to germany soon do i need a visa,international_visa,7
+do i need a travel visa to visit japan,international_visa,7
+do i need to get a visa for russia,international_visa,7
+do i need a visa to go to greece,international_visa,7
+do i need a travel visa to visit china,international_visa,7
+do i need a visa for germany,international_visa,7
+do i need a visa to go to somewhere internationally,international_visa,7
+do i need a visa to spain,international_visa,7
+do i need an international visa to go to mexico,international_visa,7
+do i need an international visa to go to england,international_visa,7
+do i need an international visa to go to brazil,international_visa,7
+do i need an international visa to go to canada,international_visa,7
+do i need an international visa to go to spain,international_visa,7
+should i get a visa before going to cancun,international_visa,7
+is a visa required to visit cancun,international_visa,7
+will i need a visa to travel to cancun,international_visa,7
+do i need a visa to go to cancun,international_visa,7
+do i need a visa to travel to canada,international_visa,7
+does mexico travel require a visa,international_visa,7
+would i need to get a visa to go to ireland,international_visa,7
+if im planning to go to the uk do i need a visa,international_visa,7
+might i need to get a visa to travel to venezuela,international_visa,7
+im going to be going to canada soon do they require a visa for entry,international_visa,7
+do i need a visa to get into canada later this year,international_visa,7
+does travelling to that place require a visa,international_visa,7
+do i need a visa to go there,international_visa,7
+do i need a visa to leave the country,international_visa,7
+does international travel always require a visa,international_visa,7
+when does travelling require a visa,international_visa,7
+if i go to canada next month do i need a visa,international_visa,7
+do i need to bring a visa when i go to canada next month,international_visa,7
+im going to canada soon do i need a visa,international_visa,7
+what paperwork will i need to visit northern ireland,international_visa,7
+should i get a visa for crete,international_visa,7
+will i need a visa to go to moldova,international_visa,7
+does laos require a travel visa,international_visa,7
+do i need to apply for a visa to visit dnipro,international_visa,7
+israel has strict restrictions do i need a visa to travel there,international_visa,7
+visas are hard to get do i need one when i travel to israel,international_visa,7
+im vacationing in israel will i need a visa,international_visa,7
+do i need a visa to travel to isreal,international_visa,7
+im heading to israel soon do i need a visa,international_visa,7
+do i have to have a visa to go to denmark,international_visa,7
+do i need a visa to go to cuba,international_visa,7
+do i have to have a visa to go to the cayman islands,international_visa,7
+does jamaica require a visa,international_visa,7
+what documents to i need to go to egypt,international_visa,7
+does france have their own version of a visa,international_visa,7
+does mexico require an international visa,international_visa,7
+does ireland require an international visa,international_visa,7
+do i need an international visa to enter canada,international_visa,7
+do i have to get an international visa before theyll let me in melbourne,international_visa,7
+must i have an international visa when travelling to russia,international_visa,7
+is an international visa needed to travel to z,international_visa,7
+i want to go to korea do i need an international visa,international_visa,7
+do i need to apply for a travel visa if i am going to bermuda,international_visa,7

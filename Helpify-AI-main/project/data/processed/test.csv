@@ -1,0 +1,151 @@
+text,intent,label
+id like to make a reservation at rooth chris can you do that,restaurant_reservation,8
+make a reservation for chikfila at 3 o clock please,restaurant_reservation,8
+reserve a table for 3 at 7 for olive garden,restaurant_reservation,8
+will you reserve a table at olive garden for 3 people at 7,restaurant_reservation,8
+at 7 i need a table for 3 at olive garden,restaurant_reservation,8
+i need a table for 3 at olive garden for 7,restaurant_reservation,8
+get a table for me at 7 for 3 people at olive garden,restaurant_reservation,8
+reserve table for 5 at red robin under the name sara at 3,restaurant_reservation,8
+reverse a table for 5 at burger king under the name sara at 6,restaurant_reservation,8
+can you reserve a table for 6 at red robin under the name mavrick at 5 clock,restaurant_reservation,8
+could you reserve table for 3 at carlos jr under the name adam at 4,restaurant_reservation,8
+i want to reserve table for 5 at red robin under the name sara at 5,restaurant_reservation,8
+i need a table for two at the havana at nine,restaurant_reservation,8
+look for me a table at carls cabin for twelve at eight,restaurant_reservation,8
+i need a table at gemma for nine at two,restaurant_reservation,8
+book me a table for three at rainforest cafe at seven,restaurant_reservation,8
+get me a table for five at itta bena at three,restaurant_reservation,8
+5 people are going to be at tropicana by 8pm reserve the table under martins name please,restaurant_reservation,8
+use martins name to reserve a table at tropicana for 5 people at 8pm,restaurant_reservation,8
+reserve a table at tropicana for 5 people under the name martins for 8pm,restaurant_reservation,8
+martins needs a table for 5 people at tropicana at 8pm precisely,restaurant_reservation,8
+the table should be reserved at 8pm at tropicana using martins name and it should be for 5 people,restaurant_reservation,8
+are there any open reservations at outback tonight,restaurant_reservation,8
+make a reservation for 2 tonight at 700 at outback steakhouse,restaurant_reservation,8
+michael will reserve a table for two at 700pm for olive garden,restaurant_reservation,8
+a table for two needs to be reserved for 700pm at olive garden using the name michael,restaurant_reservation,8
+please reserve a table for two at olive garden at 700pm for michael,restaurant_reservation,8
+get reservations at olive garden for two at 700pm under michael,restaurant_reservation,8
+reservations for two need to be made using michaels name for 700pm at olive garden,restaurant_reservation,8
+i want to eat at seven in the restaurant for two people,restaurant_reservation,8
+can you see if i can make an appointment to have my oil changed,schedule_maintenance,9
+find out the next available date and time i can go to get my oil changed please,schedule_maintenance,9
+can you let me know the next open slot for me to get my oil changed,schedule_maintenance,9
+i need to make an appointment for an oil change please,schedule_maintenance,9
+what is the next date for which i can get an oil change appointment,schedule_maintenance,9
+i need a aaa service place to make an appointment for my tires to be assessed,schedule_maintenance,9
+my auto tires need to be checked out so where can i get an appointment,schedule_maintenance,9
+where can i go to have my tires checked out,schedule_maintenance,9
+i need an appointment for someone to check out my check engine light being on,schedule_maintenance,9
+my check engine light is on so is anyone available to check it out for me,schedule_maintenance,9
+can someone take a look at my car because the check engine light is on,schedule_maintenance,9
+do you have time today for someone to look at my car because the check engine light is on,schedule_maintenance,9
+find a place near me to have my tires inspected,schedule_maintenance,9
+where can i get a appointment for a tire check for the car,schedule_maintenance,9
+i need to bring my car in because the check engine light is staying lit,schedule_maintenance,9
+can i get someone to check my check engine light,schedule_maintenance,9
+can someone tell me why my check engine light is on,schedule_maintenance,9
+my check engine light is on i need someone to look at it,schedule_maintenance,9
+can someone look at my check engine light,schedule_maintenance,9
+my check engine light is on and i need someone to look at it,schedule_maintenance,9
+will someone please look at my check engine light that is on,schedule_maintenance,9
+can someone look at my check engine light thats on,schedule_maintenance,9
+could someone look at my check engine light thats on,schedule_maintenance,9
+can i get someone to look at my check engine light that is on,schedule_maintenance,9
+should i schedule a car maintenance,schedule_maintenance,9
+should i go to a car maintenance,schedule_maintenance,9
+should i call a car maintenance,schedule_maintenance,9
+may i schedule a car maintenance,schedule_maintenance,9
+should i take my car to a maintenance,schedule_maintenance,9
+can i make a car maintenance appointment,schedule_maintenance,9
+why is my bank account locked,account_blocked,3
+how do i unlock my bank account,account_blocked,3
+can you unlock my bank account,account_blocked,3
+how did my bank account get frozen,account_blocked,3
+can you help me unlock my bank account,account_blocked,3
+call my bank and ask them why my account is frozen,account_blocked,3
+check with my bank to see why my account is frozen,account_blocked,3
+do you know why my bank account is frozen,account_blocked,3
+why did my bank place a hold on my bank account,account_blocked,3
+are there any problems with my bank account,account_blocked,3
+did someone who is unauthorized try to get into my bank account,account_blocked,3
+how can i unfreeze my bank account,account_blocked,3
+why is there a stop on my deposit account,account_blocked,3
+why cant i use my money market account,account_blocked,3
+why is there a delay on my checking account,account_blocked,3
+why is my checking account not working,account_blocked,3
+what could cause a hold on my savings account,account_blocked,3
+what caused a hold on my us bank account,account_blocked,3
+can you check and see why us bank put a hold on my account,account_blocked,3
+why does us bank have a hold on my account,account_blocked,3
+reasons that us bank would place a hold on my account,account_blocked,3
+check to see why us bank placed a hold on my account,account_blocked,3
+is there a problem with my account it appears to be blocked,account_blocked,3
+what is up with my account why is it blocked,account_blocked,3
+there seems to be an issue with my account,account_blocked,3
+can you help me unblock my account,account_blocked,3
+can you check what the problem with my account is it seems to b e blocked,account_blocked,3
+is there a reason you put a hold on my chase account,account_blocked,3
+why cant i access my chase account,account_blocked,3
+how come my chase account has a hold on it,account_blocked,3
+i want to report fraudulent activity on my navy federal card,report_fraud,2
+i would like to report fraudulent activity on my chase card,report_fraud,2
+i need to report fraudulent activity on my usaa card,report_fraud,2
+i have to report fraudulent activity on my bank of the west card,report_fraud,2
+i have to report fraudulent activity the bank of america card,report_fraud,2
+i seem to have a purchase that i didnt make from olive garden on my account,report_fraud,2
+my online bill has some items that i didnt purchase from penneys,report_fraud,2
+my account shows a transaction that i didnt make from foot locker,report_fraud,2
+my bill shows a purchase from payless shoes but i didnt buy anything,report_fraud,2
+i have some charges on my account from old navy that arent mine,report_fraud,2
+this charge is bs,report_fraud,2
+i have a bogus transaction from amazon on my account,report_fraud,2
+i have a fraudulent buy from daves video on my account,report_fraud,2
+i have a crap transaction from guitar center on my account,report_fraud,2
+i think this transaction is bogus,report_fraud,2
+i dont remember buying this,report_fraud,2
+i have a bs transaction from ebay on my account,report_fraud,2
+ive got a fraudulent purchase from kayak on my account,report_fraud,2
+do i have a fraudulent transaction on my account,report_fraud,2
+im pretty sure i have a fraudulent transaction on my account,report_fraud,2
+theres a false charge on my account from mcdonalds,report_fraud,2
+i think theres a fraudulent charge from mcdonalds on my account,report_fraud,2
+i think someone jacked my bank account,report_fraud,2
+i saw suspicious activity on my bank account,report_fraud,2
+someone else used my account to buy stuff from mcdonalds,report_fraud,2
+theres a messed up transaction on my account from mcdonalds,report_fraud,2
+i saw a fraudulent transaction,report_fraud,2
+i have a false charge on my account from mcdonalds,report_fraud,2
+who do i contact to report fraud on my visa,report_fraud,2
+there has been unauthorized use of my visa,report_fraud,2
+are visas needed to travel to jamaica,international_visa,7
+do i need a visa for south korea,international_visa,7
+if i go to columbia will i need a visa,international_visa,7
+are visas required to go to cuba,international_visa,7
+do i need to apply for a visa for my trip to india,international_visa,7
+if i go to indonesia would i need a visa,international_visa,7
+do i need a visa to travel to indonesia,international_visa,7
+should i apply for a visa if i am traveling to mexico,international_visa,7
+is a visa necessary for traveling to south africa,international_visa,7
+if i want to travel to singapore do i need a visa,international_visa,7
+do americans need visas in canada,international_visa,7
+would i need a visa in taiwan,international_visa,7
+id like to go to malaysia so do i need a visa,international_visa,7
+is a travel visa needed for thailand,international_visa,7
+what are the visa requirements for brazil,international_visa,7
+is a travel visa required to visit paraguay,international_visa,7
+does travelling to st petersburg require a travel visa,international_visa,7
+should i get a travel visa if i want to go to guyana,international_visa,7
+will i be able to visit peru without a travel visa,international_visa,7
+if i want to go to x do i need a travel visa,international_visa,7
+can i get to cuba with this visa,international_visa,7
+do i need a visa to get to puerto rico,international_visa,7
+do i need a visa to go to colombia,international_visa,7
+do i need a states visa to get to cuba,international_visa,7
+do i need a us visa for cuba,international_visa,7
+if i get a visa can i travel to japan,international_visa,7
+do i need a visa if im going to san jose,international_visa,7
+do i need a visa to travel outside of the us,international_visa,7
+are visas for international travel,international_visa,7
+can you travel outside of the united states without a visa,international_visa,7

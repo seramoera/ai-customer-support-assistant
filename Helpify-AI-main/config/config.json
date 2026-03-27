@@ -1,0 +1,46 @@
+{
+  "app": {
+    "name": "Helpify AI",
+    "version": "1.0.0",
+    "description": "An intelligent customer support assistant powered by deep learning intent classification and reinforcement learning"
+  },
+  "api": {
+    "provider": "claude",
+    "model": "claude-sonnet-4-20250514",
+    "maxTokens": 1000,
+    "timeout": 30000,
+    "retries": 3
+  },
+  "intents": [
+    "greeting",
+    "order_status",
+    "refund_request",
+    "complaint",
+    "product_inquiry",
+    "cancel_order",
+    "shipping_issue",
+    "account_issue"
+  ],
+  "actions": [
+    "ask_order_id",
+    "provide_solution",
+    "escalate_human",
+    "give_faq",
+    "ask_clarification",
+    "apologize_and_help"
+  ],
+  "rl": {
+    "epsilon": 0.3,
+    "epsilonDecay": 0.99,
+    "epsilonMin": 0.05,
+    "learningRate": 0.1,
+    "gamma": 0.9,
+    "initialQValue": 0.4
+  },
+  "ui": {
+    "animationDuration": 210,
+    "pipelineDelay": 280,
+    "maxActionLogs": 8,
+    "maxRewardHistory": 100
+  }
+}

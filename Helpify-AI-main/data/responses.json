@@ -1,0 +1,86 @@
+{
+  "responses": {
+    "greeting": {
+      "templates": [
+        "Hello! Welcome to our support team. How can I assist you today?",
+        "Hi there! Thanks for reaching out. What can I help you with?",
+        "Welcome! I'm here to help. What brings you in today?"
+      ],
+      "actions": ["ask_clarification", "provide_solution"],
+      "reward": 1
+    },
+    "order_status": {
+      "templates": [
+        "I'll help you track your order. Could you provide your order ID?",
+        "Let me look up your order status for you. What's your order number?",
+        "I can check that for you! Please share your order ID so I can find the tracking info."
+      ],
+      "actions": ["ask_order_id", "provide_solution"],
+      "reward": 2
+    },
+    "refund_request": {
+      "templates": [
+        "I understand you'd like a refund. Let me help you with that request.",
+        "I can assist with your refund. Could you tell me more about the issue?",
+        "I'll help process your refund. What was the reason for the return?"
+      ],
+      "actions": ["ask_clarification", "escalate_human"],
+      "reward": 1
+    },
+    "complaint": {
+      "templates": [
+        "I sincerely apologize for the issue you're experiencing. Let's work to resolve this together.",
+        "Sorry to hear about that. I'm here to make it right. Can you tell me more?",
+        "I'm very sorry you're having trouble. Let me help fix this for you."
+      ],
+      "actions": ["apologize_and_help", "provide_solution"],
+      "reward": 1
+    },
+    "product_inquiry": {
+      "templates": [
+        "Great question! I'd be happy to tell you more about our products. What would you like to know?",
+        "I can help with product information. What are you interested in learning about?",
+        "Sure! What specific information would you like about our products?"
+      ],
+      "actions": ["provide_solution", "give_faq"],
+      "reward": 1
+    },
+    "cancel_order": {
+      "templates": [
+        "I can help you cancel that order. Is there anything I can do to keep your business?",
+        "I'll process your cancellation right away. Would you like to share why?",
+        "Let me cancel that for you. May I ask what prompted this decision?"
+      ],
+      "actions": ["ask_clarification", "escalate_human"],
+      "reward": -1
+    },
+    "shipping_issue": {
+      "templates": [
+        "I apologize for the shipping delay. Let me investigate and get you the latest update.",
+        "I'm sorry your package hasn't arrived yet. Let me check on that for you.",
+        "Sorry about the delay. Let me track your package and see what's happening."
+      ],
+      "actions": ["provide_solution", "escalate_human"],
+      "reward": 1
+    },
+    "account_issue": {
+      "templates": [
+        "Having trouble with your account? Let me help you regain access.",
+        "I can assist with your account issue. What seems to be the problem?",
+        "I'm here to help you resolve this account issue. Can you describe what happened?"
+      ],
+      "actions": ["ask_clarification", "provide_solution"],
+      "reward": 1
+    }
+  },
+  "features": {
+    "greeting": ["hello", "greeting", "friendly"],
+    "order_status": ["tracking", "order", "delivery"],
+    "refund_request": ["refund", "return", "money back"],
+    "complaint": ["issue", "problem", "complaint"],
+    "product_inquiry": ["product", "pricing", "features"],
+    "cancel_order": ["cancel", "remove", "delete"],
+    "shipping_issue": ["shipping", "delivery", "delayed"],
+    "account_issue": ["account", "login", "password"]
+  }
+}
