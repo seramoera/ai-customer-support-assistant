@@ -58,7 +58,8 @@ To use actual Claude AI responses:
 
 4. Alternative Local Browser Server
 If you prefer running a local HTTP server:
-•	cd Helpify-AI-main
+
+• cd Helpify-AI-main
 •  python -m http.server 8000 --bind 127.0.0.1
 •	Open http://localhost:8000 in a browser
 
